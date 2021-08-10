@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김태린"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**깃허브 블로그**가 처음인 학생"
   location         : "Somewhere"
   email            :
   links:
